@@ -1,4 +1,4 @@
-# 2gis_home_task
+# 2gis home task
 
 - [Отчёт](./report.md)
 - [Notebook](./home_task_2gis.ipynb)
